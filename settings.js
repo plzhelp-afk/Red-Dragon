@@ -47,7 +47,7 @@ global.ownertag = '+94717332296' //your tag number
 global.botname = 'Red Dragon' //ur bot name
 global.packname = "RD Sticker" // sticker packname
 global.author = "Red Dragon " // sticker author
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '🔶◉' // Menu emoji
 global.footer = '[ ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ* ]' //
 
 global.button = '☰ WEBSITE ☰' //Costomize A Button Name In Alive Message
