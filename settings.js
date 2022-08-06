@@ -44,11 +44,11 @@ global.antibad = "false" // To remove bad word senders
 
 global.owner = ['+94717332296']
 global.ownertag = '+94717332296' //your tag number
-global.botname = 'AtoZ' //ur bot name
-global.packname = "AtoZ Sticker" // sticker packname
-global.author = "AtoZ Quinn" // sticker author
+global.botname = 'Red Dragon' //ur bot name
+global.packname = "RD Sticker" // sticker packname
+global.author = "Red Dragon " // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ᴀᴛᴏᴢ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ]' //
+global.footer = '[ ◉ *ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ʙᴏᴛ* ]' //
 
 global.button = '☰ WEBSITE ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://udiya.ml/' //Change Your Button's URL
